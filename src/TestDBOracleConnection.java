@@ -24,7 +24,8 @@ public class TestDBOracleConnection {
 		
 		
 		
-		//testing
+		//testing the applicatin for git hub
+		
 		  try {
 
 	            Class.forName("oracle.jdbc.driver.OracleDriver");
