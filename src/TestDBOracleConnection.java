@@ -22,6 +22,9 @@ public class TestDBOracleConnection {
 				"Database user - " + args[3] + "\t"+
 				"Database pass - " + args[4] + "\t");
 		
+		
+		
+		//testing
 		  try {
 
 	            Class.forName("oracle.jdbc.driver.OracleDriver");
